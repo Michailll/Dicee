@@ -7,11 +7,10 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
-  background-color: #393E46;
+  background-color: #365158;
 }
 
 h1 {
@@ -19,12 +18,12 @@ h1 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #5cf7c4;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #5cf7c4;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -37,5 +36,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
