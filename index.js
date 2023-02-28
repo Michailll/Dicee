@@ -7,8 +7,10 @@ let dice2 = document.querySelector(".img2");
 randomSrc1 = "images/dice" + random1 + ".png";
 randomSrc2 = "images/dice" + random2 + ".png";
 dice1.setAttribute("src", randomSrc1);
+dice1.setAttribute("alt", random1.toString());
 console.log("fff");
 dice2.setAttribute("src", randomSrc2);
+dice2.setAttribute("alt", random2.toString());
 
 let h1 = document.querySelector(".container h1");
 if (random1 > random2){
